@@ -15,3 +15,4 @@ function Prepend(item){
 Prepend('Odie');
 
 removeLast.pop();
+removeFirst.shift();
