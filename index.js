@@ -13,3 +13,5 @@ function Prepend(item){
   prepend.unshift(item);
 }
 Prepend('Odie');
+
+removeLast.pop();
