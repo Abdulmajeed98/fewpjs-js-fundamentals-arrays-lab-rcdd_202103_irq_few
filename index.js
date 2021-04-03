@@ -7,5 +7,9 @@ const removeLast = ["Milo", "Otis", "Garfield"];
 function Append(item){
   append.push(item);
 }
-
 Append('Odie');
+
+function Prepend(item){
+  prepend.unshift(item);
+}
+Prepend('Odie');
